@@ -8,3 +8,6 @@ py -m pip install pygbag
 
 Uso:
 py -m pygbag .\PyGameDemo\
+
+Links:
+https://github.com/pygame-web/pygbag
